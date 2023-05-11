@@ -1,0 +1,10 @@
+@charset "UTF-8";
+body{
+    background-color: cornsilk;
+    margin: auto;
+    text-align: center;
+}
+.Copy{
+text-align: right;
+    margin: 520px 0px 0px auto; /*marginは上右下左の順で書く*/
+}
