@@ -1,12 +1,12 @@
 @charset "UTF-8";
 body{
-    background-color: azure;
+    background-color: cornflowerblue;
 }
 .PortfolioPage {
     text-align: center;
     margin: auto;
 }
 .Unity{
-    text-align: center;
+    text-align: left;
     margin: auto;
 }
